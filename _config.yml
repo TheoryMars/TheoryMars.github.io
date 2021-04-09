@@ -38,6 +38,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-feed
+title: Theory of Mars
+description: Welcome to my podcast
+author: Bruno & Co
     
 # Archives
 jekyll-archives:
